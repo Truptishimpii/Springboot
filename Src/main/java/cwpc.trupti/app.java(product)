@@ -1,0 +1,8 @@
+   // billing 
+        
+        
+        Products products = new Products();
+        products.set_product_list_size(4);
+
+        products.add_data();
+        products.show_data();
